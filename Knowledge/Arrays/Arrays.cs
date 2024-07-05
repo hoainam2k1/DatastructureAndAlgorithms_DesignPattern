@@ -1,4 +1,6 @@
-﻿// Declare a single-dimensional array of 5 integers
+﻿//Dễ sử dụng và hiểu - Truy cập nhanh chóng thông qua chỉ số - Kích thước cố định
+
+// Declare a single-dimensional array of 5 integers
 int[] array = new int[5];
 
 // Declare and set array element values
